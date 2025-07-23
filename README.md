@@ -46,3 +46,4 @@ SHAP analysis confirmed that the model relies on sensible, business-aligned indi
 - Offers **explainability + high precision**
 - Scales to millions of transactions
 - Effective for fraud operations with **limited human review bandwidth**
+- [Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1) used
